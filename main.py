@@ -4,6 +4,8 @@ from random import randint
 # импортируем функцию run_screensaver()
 from graphic_arts.start_game_banner import run_screensaver
 
+# Add working version without classes
+
 
 def attack(char_name: str, char_class: str) -> str:
     """Attack command processing function."""
